@@ -1,0 +1,6 @@
+node_modules/
+dist/
+# monday exports and the rows built from them hold student and family records:
+# they stay on this Mac, never on GitHub.
+data/monday/
+seed/

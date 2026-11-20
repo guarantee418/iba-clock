@@ -1,0 +1,9 @@
+{
+  "name": "IBA Time Clock",
+  "short_name": "Time Clock",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#3b1456",
+  "theme_color": "#541f78",
+  "icons": [{ "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }, { "src": "/kings-crest.png", "sizes": "600x450", "type": "image/png" }]
+}
